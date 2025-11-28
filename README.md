@@ -91,6 +91,20 @@ This starter pack helps teams:
 
 ---
 
+## 🤝 How to Contribute
+
+Contributions are welcome!  
+If you'd like to improve the toolkit, fix documentation, or suggest new templates:
+
+1. Open an issue describing your idea.
+2. Fork the repository and create a branch:
+3. Make changes and open a pull request.
+4. Follow the guidelines in **CONTRIBUTING.md**.
+   
+Even small improvements (typos, formatting, clarity) are appreciated.
+
+---
+
 ## 📄 License
 
 This project is released under the **MIT License**, which permits:
