@@ -1,5 +1,5 @@
 ---
-title: AI Risk Toolkit — Professional Governance Starter Pack
+  # AI Risk Toolkit — Professional Governance Starter Pack
 ---
 
 <p align="center">
@@ -44,16 +44,23 @@ This pack gives practical, plug-and-play governance tools without enterprise com
 
 ## 📥 Download v1.0
 
-Get the release from GitHub Releases: **v1.0.0** (includes all files).  
-(Or link directly to your release once live.)
+ Get the complete toolkit (Excel files, templates, and documentation) from the official GitHub Release:
+
+ 👉 Download v1.0.0
+
+ All files are included in a single release bundle for easy setup.
 
 ---
 
 ## 📸 Screenshots
 
-*Hero image and a sample screenshot of the Risk Register are included in the repo under `/assets`.*
+ Preview the toolkit through the included visuals:
 
----
+ Hero banner (cover image)
+
+ Risk Register preview (Excel scoring layout)
+
+ All images are available in the /assets folder inside the repository.
 
 ## 🧭 Roadmap (next)
 
