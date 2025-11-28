@@ -1,7 +1,6 @@
 ---
-  # AI Risk Toolkit — Professional Governance Starter Pack
+title: ""
 ---
-
 <p align="center">
   <img src="assets/cover-image.png" alt="AI Risk Toolkit Cover" width="900">
 </p>
