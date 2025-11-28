@@ -45,6 +45,32 @@ This pack gives practical, plug-and-play governance tools without the heavy comp
 
 ---
 
+## 📸 Toolkit Previews
+
+Below are a few screenshots showcasing the AI Risk Toolkit in action:
+
+### 🔹 Risk Register Preview
+<p align="center">
+  <img src="assets/screenshots/risk-register-preview.png" width="750">
+</p>
+
+### 🔹 Heatmap (Automated Scoring)
+<p align="center">
+  <img src="assets/screenshots/heatmap-preview.png" width="750">
+</p>
+
+### 🔹 Governance Guide Preview
+<p align="center">
+  <img src="assets/screenshots/governance-guide-preview.png" width="750">
+</p>
+
+### 🔹 Summary Table (AI Risk Assessment)
+<p align="center">
+  <img src="assets/screenshots/Summary Table Page.png" width="750">
+</p>
+
+---
+
 ## 📁 Repository structure
 
 ```
