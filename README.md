@@ -130,3 +130,10 @@ Your feedback directly shapes and improves future versions.
 
 ---
 
+<p align="center">
+  Maintained by <strong>Muskan Singh</strong> • MIT License • v1.0.0
+</p>
+
+
+---
+
