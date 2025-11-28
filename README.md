@@ -1,5 +1,10 @@
+<h1 align="center">AI Risk Toolkit — Professional Governance Starter Pack</h1>
 <p align="center">
   <img src="assets/cover-image.png" alt="AI Risk Toolkit cover" width="800">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/version-v1.0.0-blue" alt="Version Badge">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge">
 </p>
 
 # AI Risk Toolkit — Professional Governance Starter Pack (v1.0)
