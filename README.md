@@ -7,6 +7,8 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge">
 </p>
 
+[![View Website](https://img.shields.io/badge/View%20Website-Live-%230ea5e9)](https://singhmuskan552-ux.github.io/AI-Governance-Starter-Pack/)
+
 > A practical, audit-ready AI governance starter pack designed for early-stage teams, students, and Responsible AI learners.  
 > Includes a Risk Register (Excel), governance documentation, helper sheets, and templates.  
 > Helps teams build structure, transparency, and accountability into AI systems from Day 1.
