@@ -7,9 +7,11 @@
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License Badge">
 </p>
 
-# AI Risk Toolkit — Professional Governance Starter Pack (v1.0)
+> A practical, audit-ready AI governance starter pack designed for early-stage teams, students, and Responsible AI learners.  
+> Includes a Risk Register (Excel), governance documentation, helper sheets, and templates.  
+> Helps teams build structure, transparency, and accountability into AI systems from Day 1.
 
-**A beginner-friendly AI governance & risk toolkit** — a compact, audit-ready starter pack with a risk register (Excel), governance documentation, and helper templates to help teams add structure and accountability to AI systems from Day 1.
+# AI Risk Toolkit — Professional Governance Starter Pack (v1.0)
 
 ---
 
