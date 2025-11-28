@@ -1,68 +1,109 @@
-🛡️ AI Governance Starter Pack (v1.0)
+<p align="center">
+  <img src="assets/cover-image.png" alt="AI Risk Toolkit cover" width="800">
+</p>
 
-A beginner-friendly AI Governance & Risk Toolkit — risk register, governance documentation, templates, and audit-ready workflows.
+# AI Risk Toolkit — Professional Governance Starter Pack (v1.0)
 
-✨ Overview
+**A beginner-friendly AI governance & risk toolkit** — a compact, audit-ready starter pack with a risk register (Excel), governance documentation, and helper templates to help teams add structure and accountability to AI systems from Day 1.
 
-The AI Governance Starter Pack is a simple, structured, and beginner-friendly toolkit designed for early-stage AI teams, students in Responsible AI, and anyone who wants to build accountability into AI systems from Day 1.
+---
 
-This toolkit brings together practical governance tools — without the complexity of enterprise frameworks.
+## ⭐ Overview
 
-📦 What’s Inside (v1.0)
-✔ AI Risk Register (Excel)
+The AI Risk Toolkit is built for:
+- Early-stage AI teams  
+- Founders adding AI features to products  
+- Compliance, risk & assurance practitioners learning AI governance  
+- Students and beginners exploring Responsible AI
 
-Automated scoring engine (Likelihood × Impact × Detectability)
+This pack gives practical, plug-and-play governance tools without the heavy complexity of enterprise frameworks.
 
-Heatmap visualization
+---
 
-Pre-built dropdowns & risk categories
+## 📦 What’s inside (v1.0)
 
-Clean, audit-ready structure
+- **AI Risk Register (Excel)**  
+  Automated scoring (Likelihood × Impact × Detectability), heatmap visualisation, pre-built dropdowns, and analytics.
 
-✔ Governance Guide (PDF)
+- **Governance Guide (PDF)**  
+  Clear workflows, roles & responsibilities, checklists, and templates to implement governance quickly.
 
-Governance basics explained simply
+- **Helper Sheet**  
+  Logic reference, automation formulas, and versioning notes for maintainers.
 
-Policy templates, workflows, and practical structures
+- **License, Support & Version Notes**  
+  Guidance for permitted use, update path, and how to request help.
 
-Beginner-friendly, direct applicability
+---
 
-✔ Helper Sheet
+## 📁 Repository structure
 
-Backend logic
+```
+AI-Governance-Starter-Pack/
+├── README.md                # Main documentation (this file)
+├── LICENSE                  # License file (MIT)
+├── assets/                  # Visuals, banners, images
+│   └── cover-image.png      # Hero image used in README
+├── toolkit/                 # Core downloadable toolkit files
+│   ├── ai-risk-register.xlsx   # Primary Excel risk register
+│   ├── governance-guide.pdf    # Governance documentation
+│   └── helper-sheet.xlsx       # Helper logic & automation formulas
+├── samples/                 # (Optional) Example outputs, demos
+└── docs/                    # (Optional) Extended docs, changelogs
+```
 
-Dropdown support
+---
 
-Version control notes
+## 🎯 Purpose Behind This Toolkit
 
-✔ License + Support Docs
+As someone early in the Responsible AI space, I often found myself thinking:
 
-Adoption guide
+> “I wish there was a simple, structured toolkit I could plug in while learning.”
 
-Usage rights
+I built this resource because I wanted governance tools that were **practical**, **accessible**, and **actionable** — especially for individuals, students, and small teams who don’t have enterprise-level frameworks.
 
-Update notes
+This starter pack helps teams:
 
-🎯 Who This Toolkit Is For
+- Map and evaluate AI risks  
+- Build lightweight governance foundations  
+- Improve transparency and assurance  
+- Prepare for upcoming AI regulations  
 
-Early AI learners
+---
 
-Students & beginners in Responsible AI
+## 🚀 Roadmap (Planned Updates)
 
-Founders experimenting with AI features
+- ✔ Heatmap automation upgrade  
+- ✔ Cleaner dropdown categories  
+- ⬜ Add Responsible AI checklist  
+- ⬜ Add model card template  
+- ⬜ Add “AI use-case intake” workflow  
+- ⬜ Add sample datasets and examples  
 
-ML builders without governance experience
+---
 
-Compliance, assurance & risk beginners
+## 📄 License
 
-Anyone who needs a simple, structured starting point
+This project is released under the **MIT License**, which permits:
 
-🧩 Why This Exists
+- Free use  
+- Modification  
+- Redistribution  
 
-As someone early in Responsible AI, I noticed a pattern:
+As long as the original license notice is included.  
+This makes the toolkit flexible for **students, educators, startups, and researchers**.
 
-People want to build responsibly — but they don’t have structured, beginner-friendly governance tools.
-Most resources are too scattered, too complex, or too theoretical.
+---
 
-So I built something practical:
-A clean, plug-and-play governance starter pack anyone can adopt quickly.
+## 💬 Support & Feedback
+
+If you find this toolkit useful, feel free to:
+
+- ⭐ Star this repository  
+- 📨 Open an issue for suggestions or improvements  
+- 🔗 Connect on LinkedIn  
+
+Your feedback directly shapes and improves future versions.
+
+---
+
