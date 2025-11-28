@@ -71,6 +71,36 @@ Below are a few screenshots showcasing the AI Risk Toolkit in action:
 
 ---
 
+## 🛠 Installation & Usage Guide
+
+Follow these simple steps to start using the AI Risk Toolkit:
+
+### 1. Download the Toolkit
+Go to the **Releases** section and download the latest `AI-Governance-Starter-Pack.zip` file, or download files individually from the `/toolkit` folder.
+
+### 2. Open the Excel Files
+- Works on both **Windows** and **Mac**
+- No macros are required
+- Enable editing when prompted
+
+### 3. How the Risk Register Works
+- Select values in the **Likelihood**, **Impact**, and **Detectability** dropdowns  
+- The **Risk Score** auto-calculates based on your inputs  
+- Colors update according to severity (High / Medium / Low)  
+- The **heatmap** updates automatically to reflect total risk distribution
+
+### 4. Governance Guide (PDF)
+Open the Governance Guide to understand:
+- Roles & responsibilities  
+- Workflow structure  
+- Audit readiness  
+- Best practices for responsible AI
+
+### 5. Safe Sample Files
+Use the sample files in `/samples` to understand expected outputs without exposing sensitive data.
+
+---
+
 ## 📁 Repository structure
 
 ```
