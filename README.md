@@ -88,6 +88,21 @@ AI-Governance-Starter-Pack/
 ```
 
 ---
+## 🧪 Sample Files (Example Outputs)
+
+To help you understand how the toolkit works, this repository includes two example outputs:
+
+### 📊 1. Sample Risk Register (Excel)
+A small, safe, non-sensitive example showing how risks look once completed.
+
+👉 [Download sample risk register](samples/risk-register-sample.xlsx)
+
+### 📋 2. Sample Governance Checklist (PDF)
+A clean checklist demonstrating what governance deliverables look like.
+
+👉 [Download governance checklist sample](samples/governance-checklist-sample.pdf)
+
+---
 
 ## 🎯 Purpose Behind This Toolkit
 
