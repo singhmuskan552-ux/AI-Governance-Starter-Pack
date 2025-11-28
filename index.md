@@ -46,7 +46,7 @@ This pack gives practical, plug-and-play governance tools without enterprise com
 
  Get the complete toolkit (Excel files, templates, and documentation) from the official GitHub Release:
 
- 👉 Download v1.0.0
+ 👉 [Download v1.0.0](url)
 
  All files are included in a single release bundle for easy setup.
 
