@@ -39,6 +39,11 @@ See how the AI Risk Register works in action:
 
 ---
 
+## 🛒 Get the Toolkit
+👉 https://airisktoolkit.gumroad.com/l/qhdoss
+
+---
+
 ## 📦 What’s inside (v1.0)
 
 - **AI Risk Register (Excel)**  
@@ -214,7 +219,6 @@ Your feedback directly shapes and improves future versions.
 <p align="center">
   Maintained by <strong>Muskan Singh</strong> • MIT License • v1.0.0
 </p>
-
 
 ---
 
