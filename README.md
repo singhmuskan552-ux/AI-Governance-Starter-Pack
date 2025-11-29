@@ -35,6 +35,8 @@ See how the AI Risk Register works in action:
 
 ![Demo of AI Risk Register](assets/demo/demo.gif)
 
+*This demo shows: updating Likelihood/Impact, auto-scoring, and live heatmap updates.*
+
 ---
 
 ## 📦 What’s inside (v1.0)
