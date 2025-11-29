@@ -29,6 +29,14 @@ This pack gives practical, plug-and-play governance tools without the heavy comp
 
 ---
 
+## 🎥 Quick Demo
+
+See how the AI Risk Register works in action:
+
+![Demo of AI Risk Register](assets/demo/demo.gif)
+
+---
+
 ## 📦 What’s inside (v1.0)
 
 - **AI Risk Register (Excel)**  
